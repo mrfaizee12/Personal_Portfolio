@@ -29,7 +29,7 @@ const Hero = () => {
       {/* Text and Buttons Section */}
       <div className="text-white lg:order-1 lg:w-1/2 flex flex-col items-center lg:items-start lg:pl-12 space-y-6 p-6 mt-10 lg:ml-20 text-center lg:text-left">
         <div className="text-[40px] sm:text-[60px] md:text-[80px] font-bold leading-tight">
-          <p data-aos="zoom-in-up">I'm</p>
+          <p data-aos="zoom-in-up">{`I'm`}</p>
           <p data-aos="zoom-in-up">Faizan</p>
           <p data-aos="zoom-in-up">Anjum</p>
         </div>

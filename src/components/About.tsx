@@ -26,7 +26,7 @@ const About = () => {
             About Me
           </h2>
           <p className="text-gray-300 text-lg" data-aos="zoom-in-up">
-            I am Faizan Anjum, a bachelor's degree student. I completed my FSc in pre-engineering, and currently, I am learning about certified cloud, applied generative AI, Web 3.0, and the Metaverse.
+           {`I am Faizan Anjum, a bachelor's degree student. I completed my FSc in pre-engineering, and currently, I am learning about certified cloud, applied generative AI, Web 3.0, and the Metaverse.`} 
           </p>
         </div>
       </div>
