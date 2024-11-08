@@ -37,7 +37,7 @@ const Hero = () => {
         {/* Buttons with Glowing Effect */}
         <div className="flex space-x-4">
           <a
-            href="https://milestone01-2.vercel.app/"
+            href="https://hackathon-milestones01-02-by-faizee.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 rounded bg-purple-950 text-white shadow-[0_0_10px_2px_rgba(231,164,231,0.6)] border border-purple-400 hover:bg-purple-600 transition"
